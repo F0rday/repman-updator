@@ -24,9 +24,8 @@ Copy repman-up file in /usr/bin/
 ```bash
 repman-up -p= %path% or . (for the actual path)
 ```
-Fill with your informations.
-![alt text](https://github.com/F0rday/repman-updator/blob/main/demo-usage.png?raw=true)
-
+Fill with your informations.  
+![alt text](https://github.com/F0rday/repman-updator/blob/main/demo-usage.png?raw=true)  
 
 The Update button save your informations and launch the process.
 
