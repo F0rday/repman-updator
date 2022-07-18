@@ -1,0 +1,3 @@
+#requirements
+apt-get install expect -y
+Copy repman-up exe file in /usr/bin/
